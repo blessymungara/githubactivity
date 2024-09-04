@@ -1,0 +1,2 @@
+hello!
+today we are doing an activity on git.
